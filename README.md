@@ -1,1 +1,1 @@
-# SQL-Project
+# Customer Purchase Project
